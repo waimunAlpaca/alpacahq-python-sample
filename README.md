@@ -38,7 +38,7 @@ To run the trade service
 python trade.py
 ```
 
-To run the websocket servicey
+To run the websocket service
 
 ```
 python websocket.py
