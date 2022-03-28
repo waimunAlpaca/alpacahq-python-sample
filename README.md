@@ -28,14 +28,14 @@ pip3 install alpaca-trade-api
 
 1. Get the API Key & Secret from [Alpaca](https://app.alpaca.markets/paper/dashboard/overview).  
 
-2. Set the `API_KEY` & `API_SECRET` values in `sample_.py` & `websocket.py`.  
+2. Set the `API_KEY` & `API_SECRET` values in `trade.py` & `websocket.py`.  
 
 ### Run the project
 
 To run the trade service
 
 ```
-python sample.py
+python trade.py
 ```
 
 To run the websocket servicey
